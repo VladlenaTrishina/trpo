@@ -1,2 +1,3 @@
-// List of students
+﻿// List of students
 1 Женя здесь был и заккомитил :)
+2 Tut byl Ya, Grigory 
